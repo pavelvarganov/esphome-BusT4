@@ -2,7 +2,7 @@
 #include "bus_t4.h"
 
 #include "esphome/core/log.h"
-#include "esphome/core/helpers.h"
+// #include "esphome/core/helpers.h"
 #include "esphome/core/alloc_helpers.h"
 
 #include "t4_packet.h"
